@@ -25,3 +25,6 @@ Glitter and Glam:
 | Diet              | 0xDFCFB8        |
 | Ashes to ashes    | 0xE7E4D3        |
 
+![alt text][glitter-glam-color-palette]
+
+[glitter-glam-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/glitter-glam-color-palette.png "Glitter+Glam color palette"
