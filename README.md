@@ -41,4 +41,4 @@ Victoria's Secret:
 
 ![alt text][victoria-color-palette]
 
-[victoria-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/victoria-color-palette.png "Victoria's secret color palette"
+[victoria-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/victoria-secret-color-palette.png "Victoria's secret color palette"
