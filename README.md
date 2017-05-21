@@ -28,3 +28,17 @@ Glitter and Glam:
 ![alt text][glitter-glam-color-palette]
 
 [glitter-glam-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/glitter-glam-color-palette.png "Glitter+Glam color palette"
+
+Victoria's Secret:
+
+| Color Name        | Hex code        |
+| ----------------- |:---------------:|
+| Victoria's Secret | 0x382F32        | 
+| Victoria          | 0xFFEAF2        |   
+| Victoria's Secret | 0xFCD9E5        |   
+| Victoria's Secret | 0xFBC5D8        |
+| Victoria's Secret | 0xF1396D        |
+
+![alt text][victoria-secret-color-palette]
+
+[glitter-glam-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/glitter-glam-color-palette.png "Victoria's secret color palette"
