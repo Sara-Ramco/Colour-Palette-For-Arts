@@ -39,6 +39,6 @@ Victoria's Secret:
 | Victoria's Secret | 0xFBC5D8        |
 | Victoria's Secret | 0xF1396D        |
 
-![alt text][victoria-secret-color-palette]
+![alt text][victoria-color-palette]
 
-[glitter-glam-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/glitter-glam-color-palette.png "Victoria's secret color palette"
+[victoria-color-palette]:https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/victoria-color-palette.png "Victoria's secret color palette"
