@@ -15,6 +15,21 @@ Chord:
 
 [chord-color-palette]: https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/chord-color-palette.png "Chord color palette"
 
+Boldizsár:
+
+| Color Name        | Hex code        |
+| ----------------- |:---------------:|
+| Dark Sky          | 0x3B6969        | 
+| Insignis insigne  | 0xFFDCA0        |   
+| FFC566            | 0xFFC566        |   
+| Marshmallow       | 0xDB746D        |
+| Kiss at the party | 0xBC4B47        |
+
+
+![alt text][boldizsár-color-palette]
+
+[boldizsár-color-palette]: https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/boldizsár-color-palette.png "Boldizsár color palette"
+
 Glitter and Glam:
 
 | Color Name        | Hex code        |
