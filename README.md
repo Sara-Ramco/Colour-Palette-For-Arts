@@ -13,5 +13,5 @@ Chord:
 
 ![alt text][chord-color-palette]
 
-[chord-color-palette]: http://www.colourlovers.com/palette/1965801/chord "Chord color palette"
+[chord-color-palette]: https://github.com/Sara-Ramco/Colour-Palette-For-Arts-/blob/master/chord-color-palette.png "Chord color palette"
 
